@@ -10,7 +10,7 @@ sleepyTime: "10"
 
 index: >-
   <h1>Hello</h1>
-  <p>This is a test</p>
+  <p>v2</p>
 
 image:
   repository: nginx
